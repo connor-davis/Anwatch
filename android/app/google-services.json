@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275589483185",
+    "project_id": "anwatch-2021",
+    "storage_bucket": "anwatch-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275589483185:android:8aee01ff728d45c9a13090",
+        "android_client_info": {
+          "package_name": "tech.connordavis.anwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275589483185-8kvc9oirpbs26jmcd6s88kvf197ufgd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFkYUEDUZPZQF4AoGr7JL23N3gkAvIzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275589483185-8kvc9oirpbs26jmcd6s88kvf197ufgd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
